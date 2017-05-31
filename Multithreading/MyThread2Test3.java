@@ -24,6 +24,6 @@ class MyThread2Test3
 			System.out.println("main"+i);
 					
 		}
-		System.out.println("main thread start ");
+		System.out.println("main thread Stop ");
 	}
 }
